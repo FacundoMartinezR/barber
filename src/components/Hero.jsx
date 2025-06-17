@@ -86,7 +86,7 @@ const Hero = () => {
               
               <div className="absolute -bottom-6 -right-6 w-24 h-24 sm:w-32 sm:h-32 bg-black border-4 border-amber-500 rounded-xl flex items-center justify-center rotate-6">
                 <div className="text-center -rotate-6">
-                  <p className="text-amber-500 font-bold text-2xl sm:text-4xl">15+</p>
+                  <p className="text-amber-500 font-bold text-2xl sm:text-4xl">19+</p>
                   <p className="text-white text-xs sm:text-sm">AÑOS DE EXPERIENCIA</p>
                 </div>
               </div>
